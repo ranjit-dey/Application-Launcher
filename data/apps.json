@@ -1,0 +1,178 @@
+[
+    {
+      "title": "ABCD",
+      "url": "https://play.google.com/store/apps/details?id=com.adityabirlacapitaldigital.OneApp",
+      "img": "abcd.webp"
+    },
+    {
+      "title": "Adobe Scan",
+      "url": "https://play.google.com/store/apps/details?id=com.adobe.scan.android",
+      "img": "adobe.webp"
+    },
+    {
+      "title": "Amazon",
+      "url": "https://play.google.com/store/apps/details?id=in.amazon.mShop.android.shopping",
+      "img": "amazon.webp"
+    },
+    {
+      "title": "Authenticator",
+      "url": "https://play.google.com/store/apps/details?id=com.azure.authenticator",
+      "img": "authenticator.webp"
+    },
+    {
+      "title": "BHIM",
+      "url": "https://play.google.com/store/apps/details?id=in.org.npci.upiapp",
+      "img": "bhim.webp"
+    },
+    {
+      "title": "Drive",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.docs",
+      "img": "drive.webp"
+    },
+    {
+      "title": "Facebook",
+      "url": "https://play.google.com/store/apps/details?id=com.facebook.katana",
+      "img": "facebook.webp"
+    },
+    {
+      "title": "Files",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files",
+      "img": "files.webp"
+    },
+    {
+      "title": "Flipkart",
+      "url": "https://play.google.com/store/apps/details?id=com.flipkart.android",
+      "img": "flipkart.webp"
+    },
+    {
+      "title": "Github",
+      "url": "https://play.google.com/store/apps/details?id=com.github.android",
+      "img": "github.webp"
+    },
+    {
+      "title": "Gpay",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.paisa.user",
+      "img": "gpay.webp"
+    },
+    {
+      "title": "Gmail",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.gm",
+      "img": "gmail.webp"
+    },
+    {
+      "title": "Gpay Buisness",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.paisa.merchant",
+      "img": "gpayb.webp"
+    },
+    {
+      "title": "Instagram",
+      "url": "https://play.google.com/store/apps/details?id=com.instagram.android",
+      "img": "instagram.webp"
+    },
+    {
+      "title": "KDE Connect",
+      "url": "https://play.google.com/store/apps/details?id=org.kde.kdeconnect_tp",
+      "img": "kde.webp"
+    },
+    {
+      "title": "LinkedIn",
+      "url": "https://play.google.com/store/apps/details?id=com.linkedin.android",
+      "img": "linkedin.webp"
+    },
+    {
+      "title": "Microsoft Office",
+      "url": "https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow",
+      "img": "microsofto.webp"
+    },
+    {
+      "title": "mAadhaar",
+      "url": "https://play.google.com/store/apps/details?id=in.gov.uidai.mAadhaarPlus",
+      "img": "maadhaar.webp"
+    },
+    {
+      "title": "microG Settings",
+      "url": "https://github.com/revanced/gmscore/releases/tag/v0.3.1.4.240913",
+      "img": "microg.png"
+    },
+    {
+      "title": "MyJio",
+      "url": "https://play.google.com/store/apps/details?id=com.jio.myjio",
+      "img": "jio.webp"
+    },
+    {
+      "title": "Paytm",
+      "url": "https://play.google.com/store/apps/details?id=net.one97.paytm",
+      "img": "paytm.webp"
+    },
+    {
+      "title": "PhonePe",
+      "url": "https://play.google.com/store/apps/details?id=com.phonepe.app",
+      "img": "phonepe.webp"
+    },
+    {
+      "title": "PixelLab",
+      "url": "https://play.google.com/store/apps/details?id=com.imaginstudio.imagetools.pixellab",
+      "img": "pixellab.webp"
+    },
+    {
+      "title": "ReVanced Manager",
+      "url": "https://revanced.app/download",
+      "img": "revanced.webp"
+    },
+    {
+      "title": "Snaptube",
+      "url": "https://www.snaptube.com/",
+      "img": "snaptube.webp"
+    },
+    {
+      "title": "Solid Explorer",
+      "url": "https://play.google.com/store/apps/details?id=pl.solidexplorer2",
+      "img": "solid.webp"
+    },
+    {
+      "title": "Student Self Service",
+      "url": "https://play.google.com/store/apps/details?id=in.ac.brainwareuniversity",
+      "img": "sss.webp"
+    },
+    {
+      "title": "Telegram",
+      "url": "https://play.google.com/store/apps/details?id=org.telegram.messenger",
+      "img": "telegram.webp"
+    },
+    {
+      "title": "TimePay",
+      "url": "https://play.google.com/store/apps/details?id=org.telegram.messenger",
+      "img": "timepay.webp"
+    },
+    {
+      "title": "Udemy",
+      "url": "https://play.google.com/store/apps/details?id=com.udemy.android",
+      "img": "udemy.webp"
+    },
+    {
+      "title": "UTS",
+      "url": "https://play.google.com/store/apps/details?id=com.cris.utsmobile",
+      "img": "uts.webp"
+    },
+    {
+      "title": "VLC",
+      "url": "https://play.google.com/store/apps/details?id=org.videolan.vlc",
+      "img": "vlc.webp"
+    },
+    {
+      "title": "Where is my train",
+      "url": "https://play.google.com/store/apps/details?id=com.whereismytrain.android",
+      "img": "train.webp"
+    },
+    {
+      "title": "X",
+      "url": "https://play.google.com/store/apps/details?id=com.twitter.android",
+      "img": "x.webp"
+    },
+    {
+      "title": "WhatsApp",
+      "url": "https://play.google.com/store/apps/details?id=com.whatsapp",
+      "img": "whatsapp.webp"
+    }
+  ]
+  
