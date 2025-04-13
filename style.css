@@ -19,6 +19,7 @@ body {
 }
 
 .container {
+    max-width: 1200px;
     height: 100%;
     width: 100%;
 
@@ -50,23 +51,19 @@ body {
     display: none;
 }
 
-@media (min-width: 700px) {
-    .line{
-        display: block;
-    }
-}
-
 .applications{
     margin-top: 92px;
     background: #333333;
-    overflow: scroll;
+    overflow: auto;
     gap: 2px;
-
+    height: auto;
     width: 100%;
     display: grid;
+    padding-bottom: 2px;
     grid-template-columns: repeat(auto-fill, minmax(180px , 1fr));
-
+    
 }
+
 
 a{
     text-decoration: none;
@@ -93,8 +90,23 @@ img {
     text-align: center;
 }
 
-
-
 ::-webkit-scrollbar{
     width: 0px;
+}
+
+@media (min-width: 700px) {
+    .heading{
+        border: none;
+    }
+    .line{
+        display: block;
+        top: 110px;
+    }
+    .container{
+        border-left: 2px solid #333333;
+        border-right: 2px solid #333333;
+    }
+    .applications{
+        margin-top: 110px;
+    }
 }
